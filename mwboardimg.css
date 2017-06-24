@@ -15,3 +15,24 @@
 /* tulum */         #forum-5114080 .c_last { background:url(http://i64.tinypic.com/17u3p3.png) center #ccb; }
 /* ocean */         #forum-5114082 .c_last { background:url(http://i64.tinypic.com/30iktmt.png) center #ccb; }
 /* uncharted */     #forum-5114083 .c_last { background:url(http://i64.tinypic.com/5fhk7q.png) center #ccb; }
+
+
+/* bbcode classes */
+.bbcode-topgallant {
+    font-family:'IM Fell DW Pica SC';
+    font-size: 40px;
+    text-align: center;
+    color: #ba9f61;
+    width: 100%;
+    display: inline-block;
+    line-height: 50%;
+}
+.bbcode-colleft {
+    display:block;
+    float:left;
+    width:50%;
+} .bbcode-colright {
+    display:block;
+    float:right;
+    width:50%;
+}
