@@ -27,12 +27,13 @@
     display: inline-block;
     line-height: 50%;
 }
-.bbcode-colleft {
-    display:block;
-    float:left;
-    width:50%;
-} .bbcode-colright {
-    display:block;
-    float:right;
-    width:50%;
+.bbcode-royalstay {
+    font-family:georgia;
+    font-size: 30px;
+    font-style:italic;
+    text-align: center;
+    color: #ba9f61;
+    width: 100%;
+    display: inline-block;
+    line-height: 50%;
 }
